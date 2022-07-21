@@ -1,1 +1,3 @@
 # FBAudienceNetwork
+
+修改podspec的source地址为当前zip包所在位置
